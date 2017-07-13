@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Quiz Ninja</string>
+    <string name="text_entry_hint">Type answer here...</string>
+    <string name="submit">Submit</string>
+
+    <string-array name="question_text">
+        <item>In coordinate geometry, the equation of the x-axis is </item>
+        <item>How many ways are there to put 2 balls in 5 cups ?</item>
+        <item>3 4/5 expressed as a decimal is</item>
+        <item>Which of the following are prime numbers ?</item>
+        <item>Which of the following is the Highest Common Factor of 18, 24 and 36?</item>
+        <item>A contractor completed five-ninths of a job before a second contractor completed an additional one-third. What fraction of the job is left undone?iv</item>
+        <item>Which of the following are odd numbers ?</item>
+        <item>How many subsets does the set {a, b, c, d, e} have?</item>
+        <item>Which of the following is a subset of  {b, c, d}?</item>
+        <item>What is 8 times 24?</item>
+    </string-array>
+
+    <string-array name="answers_question_1">
+        <item>y = x</item>
+        <item>y = 0</item>
+        <item>x = 0</item>
+        <item>y = 1</item>
+    </string-array>
+
+    <string-array name="answers_question_3">
+        <item>3.40</item>
+        <item>3.45</item>
+        <item>3.50</item>
+        <item>3.80</item>
+    </string-array>
+
+    <string-array name="answers_question_4">
+        <item>6</item>
+        <item>21</item>
+        <item>11</item>
+        <item>1.000.000.009</item>
+    </string-array>
+
+    <string-array name="answers_question_5">
+        <item>6</item>
+        <item>18</item>
+        <item>36</item>
+        <item>72</item>
+    </string-array>
+
+    <string-array name="answers_question_6">
+        <item>one-ninth</item>
+        <item>four-ninths</item>
+        <item>two-thirds</item>
+        <item>eight-ninths</item>
+    </string-array>
+
+    <string-array name="answers_question_7">
+        <item>5</item>
+        <item>48521</item>
+        <item>88</item>
+        <item>1009</item>
+    </string-array>
+
+    <string-array name="answers_question_8">
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>32</item>
+    </string-array>
+
+    <string-array name="answers_question_9">
+        <item>{a}</item>
+        <item>{1 , 2 , 3}</item>
+        <item>{ }</item>
+        <item>{a, b, c}</item>
+    </string-array>
+</resources>
+
+
+
+
+
+
+
+
+
